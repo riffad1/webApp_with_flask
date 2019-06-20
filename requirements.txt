@@ -1,1 +1,6 @@
 flask
+mysql-server
+libmysqlclient-dev
+flask-mysqldb
+flask-WTF
+passlib
